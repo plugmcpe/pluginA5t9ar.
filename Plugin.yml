@@ -1,1 +1,22 @@
+---
+name:pluginA5t9ar
+author:plug_mcpe
+main:PluginA5t9ar/main
+version: 1.0
+api: 2.0.0
 
+commands:
+          g1:
+            description: set gamemode 1
+            usage: "/g1 [name]..."
+
+commands:
+          g2:
+          description: set gamemode 2
+          usage: "/g2 [name]..."
+
+
+commands: 
+          g0:
+          description: set gamemode 0
+          usage: "/g0 [name]..."
