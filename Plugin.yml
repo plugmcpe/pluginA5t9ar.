@@ -1,7 +1,7 @@
 ---
-name:pluginA5t9ar
-author:plug_mcpe
-main:PluginA5t9ar/main
+name: PluginA5t9ar
+author: plug_mcpe
+main: PluginA5t9ar/main
 version: 1.0
 api: 2.0.0
 
